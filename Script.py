@@ -102,9 +102,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
- <b>✯ Maintained by : <a href={}>Owner</a></b>
+ <b>✯ Maintained by : <a href={'https://t.me/johnwickpetbot'}>Owner</a></b>
   
- <b>✯ Join here : <a href={}>Backup Channel</a></b> 
+ <b>✯ Join here : <a href={'https://t.me/LoveMoviesHub'}>Backup Channel</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -212,7 +212,7 @@ Nᴀᴍᴇ - {}"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️\n\n ᴍᴇᴇᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ:- @JohnWickPetBot</b>"""
+    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️ \n\n ᴍᴇᴇᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ:- @JohnWickPetBot</b>"""
 
     SHORTLINK_INFO = """
 
@@ -243,7 +243,7 @@ Nᴀᴍᴇ - {}"""
 
 <b> ⚙️ Size: {file_size}</b>
 
-<b> ⚙️ ᴊᴏɪɴ ɴᴏᴡ: @LoveMoviesHub {file_size}</b>""" 
+<b> ⚙️ ᴊᴏɪɴ ɴᴏᴡ: @LoveMoviesHub</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -257,7 +257,7 @@ IMDb Data:
 ☀️ Languages : <code>{languages}</code>
 📀 RunTime: {runtime} Minutes
 📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
+🎛 ᴍᴇᴇᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <code>@JohnWickPetBot</code>
 
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
@@ -465,7 +465,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>
+👨‍💻 @JohnWickPetBot"""
 
     LOGO = """
 𝐁𝐎𝐓 𝐈𝐒 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 🔥"""
